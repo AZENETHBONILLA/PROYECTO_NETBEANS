@@ -4,10 +4,6 @@
  */
 package Login;
 
-/**
- *
- * @author angel
- */
 public class Productos extends javax.swing.JFrame {
 
     /**

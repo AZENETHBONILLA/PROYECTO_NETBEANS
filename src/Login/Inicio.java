@@ -4,6 +4,8 @@
  */
 package Login;
 
+import java.net.URL;
+
 public class Inicio extends javax.swing.JFrame {
     
     String nombre="Juan", password="123";
@@ -18,7 +20,9 @@ public class Inicio extends javax.swing.JFrame {
         try{
             URL url=new URL ("http://localhost/API/index.php");
             
-        } catch (Exception e)
+        } catch (Exception e){
+            
+        }
         
     }
     /**
